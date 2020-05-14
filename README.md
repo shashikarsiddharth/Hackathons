@@ -11,4 +11,7 @@ Mini hacking project, perfect for couple of spare hours.
 
 1. Dice Rolling Simulator
 
-Link (<https://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/)>
+Sources
+
+- <https://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/>
+- <https://realpython.com/intermediate-python-project-ideas/>
