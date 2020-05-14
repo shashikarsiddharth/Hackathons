@@ -10,6 +10,9 @@ Mini hacking project, perfect for couple of spare hours.
 ## Index
 
 1. Dice Rolling Simulator
+2. Guess The Number
+3. Mad Libs Generator
+4. Text Based Adventure Game
 
 Sources
 
